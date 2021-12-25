@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I am a 18 Year student from <a href="https://www.smkn2klaten.edu.in/"> <b>SMK NEGERI 2 KLATEN</b>, Indonesia</a>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    I am a 18 Year student from <a href="https://smkn2klaten.sch.id/"> <b>SMK NEGERI 2 KLATEN</b>, Indonesia</a>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
 </p>
 
 <br>
