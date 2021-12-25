@@ -7,7 +7,7 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/arifht/arifht/blob/master/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/arifht/arifht/blob/master/Assets/Hi.gif" width="29px"> **hallo kak** &nbsp;<img src="https://github.com/arifht/arifht/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/arifht/arifht/blob/master/Assets/Hi.gif" width="29px"> **hai kak!** &nbsp;<img src="https://github.com/arifht/arifht/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
