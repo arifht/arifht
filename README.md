@@ -20,17 +20,13 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> dan **inilah aku** 🐍
 
 
-<a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
+<a href="https://github.com/arifht">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifht&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
 <br>
 <!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=arifht_icons=true&hide_border=true)
 -->
 
 <br>
