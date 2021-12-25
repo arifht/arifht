@@ -10,12 +10,12 @@
 ### <img src="https://github.com/arifht/arifht/blob/master/Assets/Hi.gif" width="29px"> **hai kak** &nbsp;<img src="https://github.com/arifht/arifht/blob/master/Assets/Earth.gif" width="24px">
 <p>
   <em>
-    I am a 18 Year student from <a href="https://smkn2klaten.sch.id/"> <b>SMK NEGERI 2 KLATEN</b>, Indonesia</a>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    Aku 18yo,seorang pelajar dari <a href="https://smkn2klaten.sch.id/"> <b>SMK NEGERI 2 KLATEN</b>, Indonesia</a>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> Aku **pemalas** 😴
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> Aku **pemalas**😴
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> aku orangnya **nolep** dan **jarang main** 💪.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> dan **inilah aku** 🐍
 
