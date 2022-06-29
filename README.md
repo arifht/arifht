@@ -15,9 +15,9 @@
 
 <br>
 
-- <😥> kalian adalah **BEBAN**
-- <💪> gaosa **NORAK** anjim.
-- <🙏> udah gtu aja **MAKASIH** 🐍
+- 😥 kalian adalah **BEBAN**
+- 💪 gaosa **NORAK** anjim.
+- 🙏 udah gtu aja **MAKASIH** 🐍
 
 
 <a href="https://github.com/arifht">
