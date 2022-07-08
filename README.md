@@ -15,7 +15,8 @@
 
 <br>
 
-- 😥 kalian adalah **BEBAN**
+___________________________
+- 😥 kamu adalah **BEBAN**
 - 💪 gaosa **NORAK** anjim.
 - 🙏 udah gtu aja **MAKASIH** 🐍
 
