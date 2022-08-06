@@ -17,8 +17,9 @@
 
 ___________________________
 - 👋 kalian semua baik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-- 🙏 mkasiiih uda dteng 
-- 🙏 udah gtu aja **MAKASIH** 🐍
+- 🙏 mkasiiih uda dteng <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+- ✨ keep calm and goodbayy
 
 
 <a href="https://github.com/arifht">
