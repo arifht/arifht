@@ -19,7 +19,7 @@ ___________________________
 - 👋 kalian semua baik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 - 🙏 mkasiiih uda dteng <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- ✨ keep calm and goodbayy <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> 
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px"> keep calm and goodbayy <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> 
 
 
 <a href="https://github.com/arifht">
