@@ -1,5 +1,4 @@
-# Arif hidayat&nbsp;<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
-
+# Arif hidayat&nbsp;
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
@@ -7,7 +6,7 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/arifht/arifht/blob/master/Assets/PC.gif" width="190" />
 
-### **hai kak**
+### **hai kak** <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 <p>
   <em>
     Aku 18yo,seorang pelajar dari <a href="https://smkn2klaten.sch.id/"> <b>SMK NEGERI 2 KLATEN</b>, Indonesia</a>.
@@ -16,8 +15,8 @@
 <br>
 
 ___________________________
-- 👋 kalian semua baik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-- 🙏 mkasiiih uda dteng <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+-   <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> kalian semua baik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+- 🙏  mkasiiih uda dteng <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px"> keep calm and goodbayy <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> 
 
